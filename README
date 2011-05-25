@@ -1,0 +1,3 @@
+Project name- Sphere collision
+Controls: Drag and drop any ball to provide it a velocity (during drag the ball won't move but after dropping it will gain velocity depending upon drag time and distance)
+Speciality: The algorithm is fairly optimized
